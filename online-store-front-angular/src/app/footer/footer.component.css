@@ -1,0 +1,11 @@
+p {
+    margin: auto;
+}
+
+.my-footer {
+    height: 3rem;
+    background-color: #38F5AE;
+    width: 100%;
+    padding: auto;
+    margin-top: 2rem;
+}

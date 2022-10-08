@@ -1,0 +1,16 @@
+.single-product {
+  margin: 1.5rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+
+img {
+  height: 12rem;
+  width: 100%;
+ 
+}
+
+.card-img-top:hover {
+  opacity: .6; /* bluring out a box */
+}
+
